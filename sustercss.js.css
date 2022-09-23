@@ -1,15 +1,16 @@
 <style>
 .header-logo{
-  width: 150px !important;
-  height:50px !important;
-  margin-left: 58px !important;
-  margin-top: -50px!important;
+  width: 225px !important;
+  height:65px !important;
+  margin-left: 40px !important;
+  margin-top: 13px !important;
+  margin-right: auto !important;
 }
 
 .header-logo2{
   width: 225px !important;
   height: 65px !important;
-  margin-top: 10px !important;
+  margin-top: 13px !important;
   margin-left: 40px !important;
   margin-right: auto !important;
 }
